@@ -15,7 +15,7 @@ export const SearchInput = () => {
 
 const SContainer = styled.div`
   display: flex;
-  align-items: <center></center>;
+  align-items: center;
 `;
 
 const SButtonWrapper = styled.div`
